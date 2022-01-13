@@ -17,12 +17,14 @@ see https://people.sc.fsu.edu/~jburkardt/m_src/polyomino_parity/polyomino_parity
 
 <b>References:</b>
 
-Marcus Garvie, John Burkardt,
+<ol>
+<li>Marcus Garvie, John Burkardt,
 A new mathematical model for tiling finite regions of the plane with polyominoes,
 Contributions to Discrete Mathematics,
-Volume 15, Number 2, July 2020.
+Volume 15, Number 2, July 2020.</li>
 
-Solomon Golomb,
+<li>Solomon Golomb,
 Polyominoes: Puzzles, Patterns, Problems, and Packings,
 Princeton University Press, 1996,
-ISBN: 9780691024448
+ISBN: 9780691024448</li>
+</ol>
