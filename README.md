@@ -3,19 +3,19 @@
 <em>polyomino_parity</em> is a collection of MATLAB codes which uses parity considerations, based on checkerboard 
 colouring arguments to identify impossible polyomino tiling problems.
 
-Licensing:
+<b>Licensing:</b>
 
 The computer code and data files made available are distributed under the GNU LGPL license.
 
-Languages:
+<b>Languages:</b>
 
 polyomino_parity is available here in a MATLAB version.
 
-Related Data and Programs:
+<b>Related Data and Programs:</b>
 
 see https://people.sc.fsu.edu/~jburkardt/m_src/polyomino_parity/polyomino_parity.html
 
-Reference:
+<b>References:</b>
 
 Marcus Garvie, John Burkardt,
 A new mathematical model for tiling finite regions of the plane with polyominoes,
