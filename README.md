@@ -1,7 +1,7 @@
 <b>Repository:</b>
 
-polyomino_parity, MATLAB codes which uses parity considerations (based on checkerboard colouring arguments) to identify
-impossible polyomino tiling problems.
+<em>polyomino_parity</em> is a collection of MATLAB codes which uses parity considerations, based on checkerboard 
+colouring arguments to identify impossible polyomino tiling problems.
 
 Licensing:
 
