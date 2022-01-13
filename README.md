@@ -9,7 +9,7 @@ The computer code and data files made available are distributed under the GNU LG
 
 <b>Languages:</b>
 
-polyomino_parity is available here in a MATLAB version.
+<em>polyomino_parity</em> is available here in a MATLAB version.
 
 <b>Related Data and Programs:</b>
 
