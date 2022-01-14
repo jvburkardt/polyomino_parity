@@ -3,6 +3,9 @@
 <em>polyomino_parity</em> is a collection of MATLAB codes which uses parity considerations, based on checkerboard 
 colouring arguments, to identify impossible polyomino tiling problems.
 
+<b>DOI:</b>
+[![DOI](https://zenodo.org/badge/447378584.svg)](https://zenodo.org/badge/latestdoi/447378584)
+
 <b>Licensing:</b>
 
 The computer code and data files made available are distributed under the GNU LGPL license.
